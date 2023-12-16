@@ -3,8 +3,7 @@
 🌱 Currently, I'm expanding my knowledge in the field by learning the MVVM architecture and XAML language, enhancing my skills to build robust and efficient applications.
 
 📫 How to reach me:
-   - GitHub: [@PortfolioJankowski](https://github.com/PortfolioJankowski)
-   - LinkedIn: [Matesz Jankowski](linkedin.com/in/mat-jankowski/)
+   - LinkedIn: [Matesz Jankowski](www.linkedin.com/in/mat-jankowski)
    - Email: [mat.jankowski99@gmail.com]
 <!---
 PortfolioJankowski/PortfolioJankowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
